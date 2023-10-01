@@ -36,4 +36,5 @@ Which prints out:
 ```
 Which is the available data on the player Yoenis Cespedes. 
 
-
+Technical Issues:
+1: Received 502 Bad Gateway Errors on a specific type if request
